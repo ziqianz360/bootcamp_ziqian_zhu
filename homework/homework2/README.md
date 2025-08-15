@@ -1,0 +1,1 @@
+This project initializes a reproducible Python setup for forecasting grocery store sales of perishable products. It includes a standard data science scaffold (data/, src/, notebooks/) and environment configuration using .env for storing paths and secrets. The goal is to prepare the environment for future work in time-series forecasting to reduce waste and stockouts.
