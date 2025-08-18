@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---- Environments ----
+.env
+.env.*    # any .env variants like .env.local
+.venv/
+venv/
+.envrc
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Data ----
+data/raw/*
+!data/raw/.gitkeep   # keep folder structure if you want
+
+# ---- System ----
+.DS_Store
+Thumbs.db
+
+# ---- IDEs ----
+.vscode/
+.idea/
+*.swp
